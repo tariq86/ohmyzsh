@@ -32,9 +32,9 @@ Oh My Zsh is installed by running one of the following commands in your terminal
 
 | Method    | Command                                                                                           |
 |:----------|:--------------------------------------------------------------------------------------------------|
-| **curl**  | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"` |
-| **wget**  | `sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`   |
-| **fetch** | `sh -c "$(fetch -o - https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"` |
+| **curl**  | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/tariq86/ohmyzsh/master/tools/install.sh)"` |
+| **wget**  | `sh -c "$(wget -O- https://raw.githubusercontent.com/tariq86/ohmyzsh/master/tools/install.sh)"`   |
+| **fetch** | `sh -c "$(fetch -o - https://raw.githubusercontent.com/tariq86/ohmyzsh/master/tools/install.sh)"` |
 
 #### Manual inspection
 
@@ -43,7 +43,7 @@ that by downloading the install script first, looking through it so everything l
 then running it:
 
 ```shell
-wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
+wget https://raw.githubusercontent.com/tariq86/ohmyzsh/master/tools/install.sh
 sh install.sh
 ```
 
@@ -51,7 +51,7 @@ sh install.sh
 
 ### Plugins
 
-Oh My Zsh comes with a shitload of plugins for you to take advantage of. You can take a look in the [plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins) directory and/or the [wiki](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) to see what's currently available.
+Oh My Zsh comes with a shitload of plugins for you to take advantage of. You can take a look in the [plugins](https://github.com/tariq86/ohmyzsh/tree/master/plugins) directory and/or the [wiki](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) to see what's currently available.
 
 #### Enabling Plugins
 
